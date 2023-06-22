@@ -4,7 +4,7 @@
   "description": "Prisma 2+ generator to emit typescript models of your database with class validator",
   "repository": "https://github.com/dmitrydrynov/prisma-class-validator-generator",
   "bin": {
-    "prisma-class-validator-generator": "lib/generator.js"
+    "prisma-class-validator-generator-dd": "lib/generator.js"
   },
   "scripts": {
     "start": "tsc && npx prisma generate",
